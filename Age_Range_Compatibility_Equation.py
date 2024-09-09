@@ -37,3 +37,6 @@ if 1 <= age <= 100:
     print(f"El rango de edad es: {rango_edad}")
 else:
     print("La edad ingresada no está en el rango permitido (1 a 100).")
+
+    #Cambio numero 1
+
