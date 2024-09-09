@@ -38,5 +38,5 @@ if 1 <= age <= 100:
 else:
     print("La edad ingresada no está en el rango permitido (1 a 100).")
 
-    #Cambio numero 1
+    #Cambio numero 2
 
