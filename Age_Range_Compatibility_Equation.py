@@ -1,5 +1,5 @@
 import math  # Importa el módulo math para usar la función floor()
-
+# Calcula el rango de edad adecuado para tener una pareja en base a nuestra edad
 
 def age_range(age):
     """
